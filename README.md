@@ -9,11 +9,10 @@
 - Managed by custom created utils for style, Widget, String etc.
 
 
- #Star⭐ the repo if you like what you see😉.
+ # ⭐⭐⭐Star the repo if you like what you see⭐⭐⭐
 
 # UI
 <img src="https://github.com/Prashant09mca/flutter_firebase_login/blob/master/uidemo.png"/>
-
 
 # Support library 
 - <a href="https://firebase.google.com/docs/flutter/setup">firebase_auth</a>
@@ -23,7 +22,6 @@
 - <a href="https://pub.dev/packages/flutter_facebook_login">flutter_facebook_login</a>
 - <a href="https://pub.dev/packages/flutter_country_picker">flutter_country_picker</a>
 - <a href="https://pub.dev/packages/countdown_flutter">countdown_flutter</a>
-
 
 # Requirements
 Any Operating System (ie. MacOS X, Linux, Windows)<p>
