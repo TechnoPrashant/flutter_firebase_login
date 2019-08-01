@@ -12,7 +12,7 @@
 Star⭐ the repo if you like what you see😉.
 
 # UI
-<img src="https://github.com/Prashant09mca/flutter_firebase_login/blob/master/ui.png"/>
+<img src="https://github.com/Prashant09mca/flutter_firebase_login/blob/master/uidemo.png"/>
 
 
 # Support library 
