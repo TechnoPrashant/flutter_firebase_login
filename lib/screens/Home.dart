@@ -65,7 +65,7 @@ class _HomeScreenState extends State<HomeScreen> {
             UtilsImporter().widgetUtils.spaceVertical(100),
             Align(
               alignment: Alignment.bottomCenter,
-              child: Text('Login Provider is ' + _bean.loginProvide,
+              child: Text('Login Provider is  ' + _bean.loginProvide,
                   textAlign: TextAlign.center,
                   style: TextStyle(
                       color: Colors.black,
