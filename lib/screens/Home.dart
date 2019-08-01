@@ -50,7 +50,30 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return Container(
       child: Center(
-        child: showWidget(_bean),
+        child: Column(
+          children: <Widget>[
+            showWidget(_bean),
+            UtilsImporter().widgetUtils.spaceVertical(100),
+            Align(
+              alignment: Alignment.bottomCenter,
+              child: Text(UtilsImporter().stringUtils.messageCong,
+                  style: TextStyle(
+                      color: Colors.green,
+                      fontFamily: UtilsImporter().stringUtils.fontLogin,
+                      fontSize: 30)),
+            ),
+            UtilsImporter().widgetUtils.spaceVertical(100),
+            Align(
+              alignment: Alignment.bottomCenter,
+              child: Text('Login Provider is ' + _bean.loginProvide,
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      color: Colors.black,
+                      fontFamily: UtilsImporter().stringUtils.fontLogin,
+                      fontSize: 24)),
+            )
+          ],
+        ),
       ),
     );
   }
@@ -89,15 +112,6 @@ Widget FacebookOrGoogle(UserBean _userbean) {
           UtilsImporter().widgetUtils.spaceVertical(20),
           Text(_userbean.emailAddress,
               style: UtilsImporter().styleUtils.homeTextFieldStyle()),
-          UtilsImporter().widgetUtils.spaceVertical(100),
-          Align(
-            alignment: Alignment.bottomCenter,
-            child: Text(UtilsImporter().stringUtils.messageCong,
-                style: TextStyle(
-                    color: Colors.green,
-                    fontFamily: UtilsImporter().stringUtils.fontLogin,
-                    fontSize: 30)),
-          )
         ],
       ),
     ),
@@ -125,15 +139,6 @@ Widget emailLogin(UserBean _userbean) {
           UtilsImporter().widgetUtils.spaceVertical(20),
           Text(_userbean.emailAddress,
               style: UtilsImporter().styleUtils.homeTextFieldStyle()),
-          UtilsImporter().widgetUtils.spaceVertical(100),
-          Align(
-            alignment: Alignment.bottomCenter,
-            child: Text(UtilsImporter().stringUtils.messageCong,
-                style: TextStyle(
-                    color: Colors.green,
-                    fontFamily: UtilsImporter().stringUtils.fontLogin,
-                    fontSize: 30)),
-          )
         ],
       ),
     ),
@@ -159,15 +164,6 @@ Widget mobileLogin(UserBean _userbean) {
           UtilsImporter().widgetUtils.spaceVertical(20),
           Text(_userbean.phoneNumber,
               style: UtilsImporter().styleUtils.homeTextFieldStyle()),
-          UtilsImporter().widgetUtils.spaceVertical(100),
-          Align(
-            alignment: Alignment.bottomCenter,
-            child: Text(UtilsImporter().stringUtils.messageCong,
-                style: TextStyle(
-                    color: Colors.green,
-                    fontFamily: UtilsImporter().stringUtils.fontLogin,
-                    fontSize: 30)),
-          )
         ],
       ),
     ),

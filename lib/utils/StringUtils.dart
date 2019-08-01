@@ -41,4 +41,5 @@ class StringUtils {
   String icFacebook = 'images/ic_facebook.png';
   String icGoogle = 'images/ic_google.png';
   String icPhone = 'images/ic_phone.png';
+  String logofb = 'images/logofb.jpg';
 }

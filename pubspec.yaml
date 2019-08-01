@@ -55,6 +55,7 @@ flutter:
     - images/ic_phone.png
     - images/ic_facebook.png
     - images/ic_google.png
+    - images/logofb.png
 
 
   # An image asset can refer to one or more resolution-specific "variants", see

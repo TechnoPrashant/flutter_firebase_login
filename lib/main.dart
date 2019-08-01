@@ -47,17 +47,16 @@ class _SplashScreenState extends State<SplashScreen> {
   @override
   Widget build(BuildContext context) {
     return Container(
-      color: Colors.white,
+      color: Colors.black,
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: <Widget>[
           Container(
             padding: EdgeInsets.all(20),
             child: Image.asset(
-              'images/logo.png',
-              width: 100,
-              height: 100,
-              color: Colors.black,
+              'images/logofb.png',
+              height: 180,
+              fit: BoxFit.fitHeight,
             ),
             /*  decoration: BoxDecoration(
                 borderRadius: BorderRadius.all(Radius.circular(90)),
