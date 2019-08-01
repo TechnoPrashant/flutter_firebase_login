@@ -1,16 +1,49 @@
-# flutter_firebase_login
+# Firebase Social Login Includes:
+- Facebook 
+- Google
+- Email
+- Phone Number
+- Email Validation
+- Phone number validation
+- Elegant UI
+- Managed by custom created utils for style, Widget, String etc.
 
-A new Flutter application.
 
-## Getting Started
+Star⭐ the repo if you like what you see😉.
 
+# UI
+<img src="https://github.com/Prashant09mca/flutter_firebase_login/blob/master/a1.png"/>
+<img src="https://github.com/Prashant09mca/flutter_firebase_login/blob/master/a2.png"/>
+<img src="https://github.com/Prashant09mca/flutter_firebase_login/blob/master/a3.png"/>
+<img src="https://github.com/Prashant09mca/flutter_firebase_login/blob/master/a4.png"/>
+
+# Support library 
+- <a href="https://firebase.google.com/docs/flutter/setup">firebase_auth</a>
+- <a href="https://firebase.google.com/docs/flutter/setup">firebase_core</a>
+- <a href="https://pub.dev/packages/google_sign_in">google_sign_in</a>
+- <a href="https://pub.dev/packages/toast">toast</a>
+- <a href="https://pub.dev/packages/flutter_facebook_login">flutter_facebook_login</a>
+- <a href="https://pub.dev/packages/flutter_country_picker">flutter_country_picker</a>
+- <a href="https://pub.dev/packages/countdown_flutter">countdown_flutter</a>
+
+
+# Requirements
+Any Operating System (ie. MacOS X, Linux, Windows)<p>
+Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)<p>
+A little knowledge of Dart and Flutter
+A brain to think
+
+# Author(s)
+ <h3>Prashant Padmani</h3>
+
+Getting Started
 This project is a starting point for a Flutter application.
-
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Lab: <a href="https://flutter.dev/docs/get-started/codelab">Make your First Flutter App</a><p>
+Cookbook: <a href="https://flutter.dev/docs/cookbook">Usefull Flutter Demos</a>
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+For help getting started with Flutter, view our <a href="https://flutter.dev/docs">Flutter Document</a>, which offers tutorials, samples, guidance on mobile development, and a full API reference.
+
+
+
