@@ -9,7 +9,7 @@
 - Managed by custom created utils for style, Widget, String etc.
 
 
-Star⭐ the repo if you like what you see😉.
+ #Star⭐ the repo if you like what you see😉.
 
 # UI
 <img src="https://github.com/Prashant09mca/flutter_firebase_login/blob/master/uidemo.png"/>
