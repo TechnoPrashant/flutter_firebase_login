@@ -29,7 +29,7 @@ A brain to think
 # Author(s)
  <h3>Prashant Padmani</h3>
  
- # ⭐⭐⭐Star the repo if you like what you see⭐⭐⭐
+ # ⭐⭐⭐ Star the repo if you like what you see. ⭐⭐⭐
 
 # Getting Started
 This project is a starting point for a Flutter application.
