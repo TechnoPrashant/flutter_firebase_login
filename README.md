@@ -14,7 +14,7 @@ Star⭐ the repo if you like what you see😉.
 # UI
 <img src="https://github.com/Prashant09mca/flutter_firebase_login/blob/master/a1.png"/>
 <img src="https://github.com/Prashant09mca/flutter_firebase_login/blob/master/a2.png"/>
-<img src="https://github.com/Prashant09mca/flutter_firebase_login/blob/master/a3.png"/>
+<img src="https://github.com/Prashant09mca/flutter_firebase_login/blob/master/a3new.png"/>
 <img src="https://github.com/Prashant09mca/flutter_firebase_login/blob/master/a4.png"/>
 
 # Support library 
