@@ -8,9 +8,6 @@
 - Elegant UI
 - Managed by custom created utils for style, Widget, String etc.
 
-
- # ⭐⭐⭐Star the repo if you like what you see⭐⭐⭐
-
 # UI
 <img src="https://github.com/Prashant09mca/flutter_firebase_login/blob/master/uidemo.png"/>
 
@@ -31,8 +28,10 @@ A brain to think
 
 # Author(s)
  <h3>Prashant Padmani</h3>
+ 
+ # ⭐⭐⭐Star the repo if you like what you see⭐⭐⭐
 
-Getting Started
+# Getting Started
 This project is a starting point for a Flutter application.
 A few resources to get you started if this is your first Flutter project:
 
