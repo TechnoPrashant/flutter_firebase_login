@@ -12,10 +12,8 @@
 Star⭐ the repo if you like what you see😉.
 
 # UI
-<img src="https://github.com/Prashant09mca/flutter_firebase_login/blob/master/a1.png"/>
-<img src="https://github.com/Prashant09mca/flutter_firebase_login/blob/master/a2.png"/>
-<img src="https://github.com/Prashant09mca/flutter_firebase_login/blob/master/a3new.png"/>
-<img src="https://github.com/Prashant09mca/flutter_firebase_login/blob/master/a4.png"/>
+<img src="https://github.com/Prashant09mca/flutter_firebase_login/blob/master/ui.png"/>
+
 
 # Support library 
 - <a href="https://firebase.google.com/docs/flutter/setup">firebase_auth</a>
