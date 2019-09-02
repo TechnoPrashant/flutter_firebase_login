@@ -11,6 +11,8 @@
 # UI
 <img src="https://github.com/Prashant09mca/flutter_firebase_login/blob/master/uidemo.png"/>
 
+<h3> ⭐ Star the repo if you like what you see. ⭐</h3>
+
 # Support library 
 - <a href="https://firebase.google.com/docs/flutter/setup">firebase_auth</a>
 - <a href="https://firebase.google.com/docs/flutter/setup">firebase_core</a>
@@ -28,8 +30,6 @@ A brain to think
 
 # Author(s)
  <h3>Prashant Padmani</h3>
- 
- # ⭐ Star the repo if you like what you see. ⭐
 
 # Getting Started
 This project is a starting point for a Flutter application.
@@ -40,5 +40,6 @@ Cookbook: <a href="https://flutter.dev/docs/cookbook">Usefull Flutter Demos</a>
 
 For help getting started with Flutter, view our <a href="https://flutter.dev/docs">Flutter Document</a>, which offers tutorials, samples, guidance on mobile development, and a full API reference.
 
-
+ # ☕️ Donate
+ <a href="https://www.buymeacoffee.com/technoprashant" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
